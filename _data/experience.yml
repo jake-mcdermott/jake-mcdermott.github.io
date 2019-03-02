@@ -1,19 +1,16 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Workday Inc.
+  position: Software Engineer II - DevOps
+  duration: July, 2017 &mdash; Present
+  summary: Deploying Workday on AWS. Created a Kubernetes and Docker based cloud platform across multiple regions and environments. Developed and designed Golang and Ruby and Jenkins applications to enable software teams to maintain and deploy software.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Amazon Web Services
+  position: Software Development Engineer - Intern
+  duration: Jan, 2016 &mdash; Sept, 2016
+  summary: Interned in the AWS Network Automation department. Project was a caching mechanism to reduce the load time of a network tool. Achieved this by creating a database backed web service using Python Flask to store, query and verify JSON files. Successfully reduced load time by 86%, saving 876 man hours per year. 
 
+- company: Archway Products Ltd
+  position: Software Development Engineer - Intern
+  duration: May, 2015  &mdash; Sept, 2015
+  summary: Lead developer in an application to streamline business processes associated with the UK branch. Recording GPS locations of trucks, calculating wages, determining nearest supply stop for materials and calculating running totals of creditors. Created a web application using Groovy Grails framework, and the Canvas remote data capture software.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
