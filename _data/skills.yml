@@ -1,6 +1,12 @@
 # Skills
 - skill: Technology
-  description: Kubernetes, Docker, AWS
+  description: Kubernetes, Docker, AWS Services, Jenkins, Jira, MySQL, Concurrency
+
+- skill: Technology Skills
+  description: Agile Development, Functional Requirements, Production Support (oncall), UI and UA testing, Integration Testing, Testing Automation, Scripting, Documentation, Public Speaking
 
 - skill: Programming languages (in order of competence)
-  description: Python, Golang, Ruby, Java, C++
+  description: Python, Golang, Ruby, Java, C++, Bash
+
+- skill: Reading List
+  description: Check out the books and blogs I read - [link]
