@@ -1,8 +1,6 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: TO DO
-
-# Communications strategy
 - skill: Technology
-  description: TO DO
+  description: Kubernetes, Docker, AWS
+
+- skill: Programming languages (in order of competence)
+  description: Python, Golang, Ruby, Java, C++
