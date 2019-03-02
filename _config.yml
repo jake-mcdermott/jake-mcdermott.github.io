@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: "Jake McDermott Resume"
 
@@ -55,3 +56,6 @@ resume_theme:                   default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
+=======
+theme: jekyll-theme-tactile
+>>>>>>> 2e3e14d4834ab6a3200083fe5686961bb9794c72
