@@ -13,14 +13,14 @@ resume_name:                    "Jake McDermott"
 resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "mail@jake.ie"
+resume_contact_email:           "realjakemcdermott@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+353 86 404 4596"
 resume_contact_address:         "Maynooth, Kildare, Ireland"
 
-resume_header_contact_info:     "Maynooth, Kildare, Ireland • +353 86 404 4596 • mail@jake.ie"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Maynooth, Kildare, Ireland • +353 86 404 4596 • realjakemcdermott@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Software/DevOps Engineer for Workday Inc. in Dublin, Ireland. Currently deploying large scale applications on a Kubernetes AWS platform.</p>"
 
