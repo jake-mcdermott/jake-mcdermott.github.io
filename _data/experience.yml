@@ -2,7 +2,7 @@
 - company: Workday Inc.
   position: Software Engineer II - DevOps
   duration: July, 2017 &mdash; Present
-  summary: Deploying Workday on AWS. Created a Kubernetes and Docker based cloud platform across multiple regions and environments. Developed and designed Golang and Ruby and Jenkins applications to enable software teams to maintain and deploy software.
+  summary: Deploying Workday on AWS. Created a Kubernetes and Docker based cloud platform across multiple regions and environments. Developed and designed Golang, Ruby and Jenkins applications to enable software teams to maintain and deploy software.
 
 - company: Amazon Web Services
   position: Software Development Engineer - Intern
